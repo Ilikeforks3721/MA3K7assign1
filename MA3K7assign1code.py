@@ -2,11 +2,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #The following three variables can be changed
-mod = input("Enter mod: ")
+mod = 10
 #"mod" must be a postive integer
-gen1 = input("Enter the first generator: ")
+gen1 = 1
 #"gen1" must be a non-negative integer STRICTLY less than "mod"
-gen2 = input("Enter the second generator: ")
+gen2 = 5
 #"gen2" has the same restrictions as "gen1"
 
 #The following code checks that the restrictions are met, and that 'mod' isn't too large (mostly for completeness)
