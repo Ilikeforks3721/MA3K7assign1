@@ -1,3 +1,4 @@
+#This code works in a JupyterLyte notebook
 import numpy as np
 import matplotlib.pyplot as plt
 
